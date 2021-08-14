@@ -1,3 +1,4 @@
+
 Controller
 
 rails g controller homes
@@ -59,3 +60,4 @@ rails g Delivery-Addresses user_id:integer address:string postal_code:string nam
 rails g Order-Details item_id:integer order_id:integer quantity:integer item_with_tax:integer production_status:integer
 
 こんふりくとれんしゅう
+
